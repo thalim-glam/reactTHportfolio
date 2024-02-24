@@ -1,12 +1,14 @@
 import { useState } from 'react';
-import reactLogo from '../public/favicon.ico';
+import reactLogo from './assets/favicon.ico';
 import './App.css';
-import sideNav from './components/sideNav';
+import SideNav from './components/SideNav';
+import Main from './components/Main';
 
 function App() {
   return (
     < div >
-    <sideNav />
+    <SideNav />
+    <Main />
     </div >
   )
 }
