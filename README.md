@@ -16,8 +16,8 @@
 ## Installation
 
 - Here are the installation process :
-  - [1] Here is the repo for this application https://github.com/thalim-glam/TH-resume-react 
-  - [2] Here is the deployed link : https://velvety-paprenjak-f1099c.netlify.app/  
+  - [1] Here is the repo for this project: https://github.com/thalim-glam/reactTHportfolio
+  - [2] Here is the deployed link : 
   - [3] To create this project I used VSCode and "VITE 4.4.1"
   - [4] I have included all the necessary dependencies inside "package.json". 
   - [5] Make sure you have "React" installed.
