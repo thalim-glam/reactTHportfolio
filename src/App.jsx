@@ -4,11 +4,11 @@ import './App.css';
 import sideNav from './components/sideNav';
 
 function App() {
-  return {
+  return (
     < div >
     <sideNav />
     </div >
-  }
+  )
 }
 
 export default App;
