@@ -63,8 +63,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## User Instruction
 
   - Click here for deployed link : https://velvety-paprenjak-f1099c.netlify.app/
-  - Click here for the repository: https://github.com/thalim-glam/TH-resume-react 
-  - Click here for Readme file: https://github.com/thalim-glam/TH-resume-react/blob/main/README.md 
+  - Click here for the repository: https://github.com/thalim-glam/reactTHportfolio
+  - Click here for Readme file: https://github.com/thalim-glam/reactTHportfolio/blob/main/README.md
  
   - Sample screenshots :
     - Screenshot of VScode ![Screenshot of VScode](./public/screenshot_vscode.png)
@@ -89,7 +89,7 @@ I used the following command lines:
 
 ## Credits
 
-Thanks a lot to my Instructor, class recordings, my Tutor and groupmates, class friends and Google.  
+Thanks a lot to my Instructor, class recordings, my Tutor(Justin) and groupmates, school friends and Google.  
 
 ## License
 
