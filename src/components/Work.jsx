@@ -18,7 +18,7 @@ const data = [
     year: 2021,
     title: 'Computer Science Teacher at BASIS Independent School',
     duration: '1 year',
-    details: 'Planning and maintaining the daily schedule of a summer camp as well as managing the instructors, communicating with the parents, meeting parent expectations, and ensuring the overall safety of the camp by conflict resolution and consistent monitoring.'
+    details: 'As a Computer Science and Engineering teacher my responsibility was to teach, mentor, advice and guide both high school and elementary school students.'
   },
 ]
 
