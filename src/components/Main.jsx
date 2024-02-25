@@ -11,7 +11,7 @@ const Main = () => {
           <h1 className='sm:text-5xl text-4xl font-bold text-blue-800'>
             Portfolio of Tasneem Halim
           </h1>
-          <h2 className='flex sm:text-3xl text-2xl pt-4 text-green-800'> I am
+          <h2 className='flex sm:text-2xl text-2xl pt-4 font-bold text-green-800'> I am
             <TypeAnimation
               sequence={[
                 // This i copied from https://www.npmjs.com/package/react-type-animation
