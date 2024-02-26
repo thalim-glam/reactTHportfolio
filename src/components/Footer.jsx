@@ -10,7 +10,7 @@ function Footer() {
         <small> &copy; Developed by Tasneem Halim </small>
       </p>
       <address>
-      <div className='flex justify-between pt-6 max-w-[200px] w-full'>
+      <div className='flex justify-between pt-6 max-w-[150px] w-full'>
           <a href="https://github.com/thalim-glam">
           <img className='cursor-pointer flex justify-between pt-6 max-w-[60px] w-ful' size={20} src={github_logo} /></a>
           <a href="https://www.linkedin.com/in/thalim-glam-stducberkley/">
