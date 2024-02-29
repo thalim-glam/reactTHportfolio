@@ -11,17 +11,17 @@ const Main = () => {
           <h1 className='sm:text-5xl text-4xl font-bold text-blue-800'>
             Portfolio of Tasneem Halim
           </h1>
-          <h2 className='flex sm:text-2xl text-2xl pt-4 font-bold text-green-800'> I am
+          <h2 className='flex sm:text-2xl text-2xl pt-4 font-bold text-green-800'> I
             <TypeAnimation
               sequence={[
                 // This i copied from https://www.npmjs.com/package/react-type-animation
-                'currently a UCBerkeley student',
+                'am a Full stack developer.',
                 2000, // wait 2s before replacing next phrase
-                ' actively looking for a full time work',
+                'am actively looking for a full time work. ',
                 2000,
-                'an Ex Coding Coach',
+                'have prior experience in coding. ',
                 2000,
-                'a lifelong Educator',
+                'have taught HTML, CSS, Python, JavaScript, Lego robotics etc.',
                 2000
               ]}
               wrapper= "div"
