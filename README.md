@@ -62,15 +62,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## User Instruction
 
-  - Click here for deployed link : https://velvety-paprenjak-f1099c.netlify.app/
+  - Click here for deployed link :
   - Click here for the repository: https://github.com/thalim-glam/reactTHportfolio
   - Click here for Readme file: https://github.com/thalim-glam/reactTHportfolio/blob/main/README.md
   - For convenience install react developer tool extension.
-  - Sample screenshots :
-    - Screenshot of VScode ![Screenshot of VScode](./public/screenshot_vscode.png)
-    - Screenshot of deployment ![Screenshot of deployment](./public/screenshot_netlify.png)
-    - Screenshot of Website ![Screenshot of Website](./public/screenshot_website.png)
-    - Screenshot of six Projects ![Screenshot of six projects](./public/screenshot_projects.png)
 
     
 ## Command line code
