@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import SideNav from './components/SideNav';
+import SideNav from './components/sideNav';
 import Main from './components/Main';
 import Work from './components/Work';
 import Projects from './components/Projects';
